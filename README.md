@@ -68,7 +68,9 @@ Exploring AI-assisted workflows for academic writing, vibe coding, and research 
 
 
 ## 📝AI 写作 Prompt 实践
+### 润色优化prompt
 
+### 凝练缩写prompt
 
 
 
